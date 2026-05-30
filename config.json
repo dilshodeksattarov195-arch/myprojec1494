@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyutringify",
+        "uuid": 9858906,
+        "checksum": "rjryc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
